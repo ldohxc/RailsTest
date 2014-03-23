@@ -4,4 +4,5 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
   #try to merge use beyond compare
   # is this a conflict?
+  #second test
 end
