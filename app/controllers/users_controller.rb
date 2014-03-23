@@ -7,6 +7,7 @@ class UsersController < ApplicationController
     @users = User.all
   end
   #second test222
+  #second test
 
   # GET /users/1
   # GET /users/1.json
