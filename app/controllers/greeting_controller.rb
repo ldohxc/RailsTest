@@ -3,6 +3,7 @@ class GreetingController < ApplicationController
     @message = "Hello, the world"
   end
   #second test
+  #popopopop
   #adsadsad
   def morning
     @mes = "Morning, the world"
